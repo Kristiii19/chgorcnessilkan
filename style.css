@@ -1,0 +1,17 @@
+body {
+    background-image: url("https://img.freepik.com/free-photo/white-wooden-heart-rustic-table_1357-310.jpg?w=2000");
+    background-repeat: repeat;
+    background-size: contain;
+
+
+}
+
+div {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+@media(max-width: 480px){
+    
+}
