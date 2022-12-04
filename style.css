@@ -12,6 +12,19 @@ div {
     justify-content: center;
     align-items: center;
 }
-@media(max-width: 480px){
-    
+
+img {
+    width: 400px;
+    height: 600px;
+    object-fit: cover;
+    border-radius: 20px;
+    opacity: 80%;
 }
+
+p {
+    text-align: center;
+    font-size: 25px;
+    color: black;
+}
+
+@media(max-width: 480px) {}
